@@ -6,3 +6,4 @@
 | script | 5 | bash 쉘 스크립트 |
 | calc | 6 | 정적/공유/동적 라이브러리 |
 | make_calc | 7 | Makefile |
+| lab09_debug | 9 | GDB, VSCode 디버깅 |
